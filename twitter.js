@@ -70,8 +70,8 @@ console.log("hey jnfjnfjenfmefnvmkef0");
        tweetbtnclick.click(); 
 
     }
-    catch{
-
+    catch(err){
+        console.log(err);
     }
 
 })();
